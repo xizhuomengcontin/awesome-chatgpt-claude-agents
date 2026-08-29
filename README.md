@@ -18,6 +18,7 @@
 - [Claude Code Subagents](#claude-code-subagents)
   - [Production-Ready Collections](#production-ready-collections)
   - [Specialized Development](#specialized-development)
+  - [Testing & Quality Assurance](#testing--quality-assurance)
   - [Full-Stack & DevOps](#full-stack--devops)
   - [Data Science & ML](#data-science--ml)
 - [Frameworks & Platforms](#frameworks--platforms)
@@ -77,6 +78,9 @@
 - **[toprank](https://github.com/nowork-studio/toprank)** - Open-source Claude Code plugin with 9 SEO and Google Ads skills — connects Google Search Console, PageSpeed Insights, and Google Ads API
 - **[NotFair](https://github.com/nowork-studio/NotFair)** ⭐ 2.9k+ - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects live marketing data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
 
+### Testing & Quality Assurance
+
+- **[Agent QA](https://github.com/vostride/agent-qa)** ⭐ 933 - Agent skills for authoring natural-language web, Android, and iOS regression tests, debugging failed runs, and triaging results from reviewable run evidence. Source-available under FSL-1.1-ALv2; each release converts to Apache-2.0 after two years.
 
 ### Full-Stack & DevOps
 
