@@ -103,6 +103,7 @@
 - **[OpenPaw](https://github.com/daxaur/openpaw)** - Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills. No daemon, no cloud, MIT licensed.
 - **[agency-os](https://github.com/ratamaha-git/agency-os)** - Run your work like an AI agency from a single Notion board. Plan ideas into dependency-sequenced subtasks, dispatch each on the right model, and collect results back in Notion. Pluggable to Claude Code, Cursor, Cline, or any MCP-compatible agent.
 - **[AutomateLab-tech/publishing-skills](https://github.com/AutomateLab-tech/publishing-skills)** - Four composable, platform-agnostic skills that turn an AI agent into a long-tail SEO publishing pipeline: topic research, drafting, SVG figures, and an editorial calendar. Publishes to Ghost, WordPress, or any static-site generator. Install via clawhub or by cloning the repo.
+- **[YYLO](https://github.com/yylo-dev/yylo)** ⭐ 57 - Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes, with typed task, validation, merge, and release-readiness boundaries. Each task runs in a dedicated branch/worktree, and the merge queue owns risk-based review. MIT, on npm as @yylo/cli; subagent namespaces include Pi and Codex.
 
 ### Development Platforms
 
