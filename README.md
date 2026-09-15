@@ -116,6 +116,7 @@
 - **[MetaGPT](https://github.com/geekan/MetaGPT)** ⭐ 44k+ - Multi-agent framework that turns one line requirement into PRD, design, tasks, and code
 - **[ChatDev](https://github.com/OpenBMB/ChatDev)** ⭐ 25k+ - Communicative agents for software development
 - **[CAMEL](https://github.com/camel-ai/camel)** ⭐ 5k+ - Communicative agents for "mind" exploration of large language model society
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** ⭐ 2,002 - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 ## 📚 Educational Resources
 
