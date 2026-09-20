@@ -95,6 +95,7 @@
 ## 🛠️ Frameworks & Platforms
 
 ### Multi-Agent Orchestration
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — drop-in recorder that sits between your agent and the model provider.
 
 - **[CrewAI](https://github.com/joaomdmoura/crewAI)** ⭐ 20k+ - Framework for orchestrating role-playing, autonomous AI agents
 - **[Swarm](https://github.com/openai/swarm)** - Educational framework for lightweight multi-agent orchestration by OpenAI
